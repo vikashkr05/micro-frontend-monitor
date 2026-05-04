@@ -4,6 +4,8 @@ A real-time dashboard for monitoring **Module Federation micro-frontends** — v
 
 ![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite) ![React](https://img.shields.io/badge/React-18-61dafb?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 
+![Micro-Frontend Monitor dashboard screenshot](docs/screenshot.png)
+
 ## The problem this solves
 
 Teams running 10+ federated modules with Module Federation have no central visibility into:

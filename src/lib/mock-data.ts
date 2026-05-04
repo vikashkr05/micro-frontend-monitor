@@ -1,4 +1,4 @@
-import type { MFEModule, LoadEvent, ModuleStatus } from "../types";
+import type { MFEModule, LoadEvent } from "../types";
 
 const NOW = Date.now();
 const DAY = 86400000;
